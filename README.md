@@ -18,7 +18,7 @@ Land a Data Analyst role in India (₹4-8 LPA)
 *Coming soon — I'm building real-world projects to showcase here!*
 
 ## 📫 Connect With Me
-- LinkedIn: [Your LinkedIn URL - add after creating]
+- LinkedIn:
 - Email: 
 
 ---
