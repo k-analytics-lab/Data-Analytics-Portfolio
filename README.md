@@ -1,6 +1,6 @@
 # 📊 Data Analytics Portfolio
 
-**Hi! I'm [Kartik]** 👋
+**Hi! I'm Kartik** 👋
 
 I'm on a **5-month journey** (Nov 2024 - Mar 2025) to become a **Data Analyst**.
 
