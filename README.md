@@ -2,7 +2,7 @@
 
 **Hi! I'm Kartik** 👋
 
-I'm on a **4-5 month journey** (Nov 2024 - Apr 2025) to become a **Data Analyst**, dedicating 8-10 hours daily to mastering data skills.
+I'm on a **4-5 month journey** (Jan 2026 - May 2026) to become a **Data Analyst**, dedicating 8-10 hours daily to mastering data skills.
 
 ---
 
