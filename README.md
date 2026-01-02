@@ -23,5 +23,5 @@ Land a Data Analyst role in India (₹4-8 LPA)
 
 ---
 
-**Last Updated:** Nov 2024  
+**Last Updated:** jan 2026  
 **Status:** Day 1 Complete ✅
