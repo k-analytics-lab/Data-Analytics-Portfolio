@@ -58,7 +58,7 @@ Analyzed ₹22.97L in sales data to identify regional performance, category prof
 **Week 1 Focus:** Excel Basics  
 ✅ Day 1: SUM, MAX, MIN, AVG, IF, IF+AND, Absolute References ($)  
 ✅ Day 2: VLOOKUP, IFERROR, TRUE vs FALSE logic   
-⏳ Day 3: Pivot Tables, Charts, First Dashboard
+✅ Day 3: Pivot Tables, Charts, First Dashboard
 
 ---
 
@@ -72,7 +72,7 @@ Analyzed ₹22.97L in sales data to identify regional performance, category prof
 
 ## 🔥 Current Status
 
-**Day 2 Complete ✅**  
+**Day 3 Complete ✅**  
 Mastered VLOOKUP with hands-on practice — employee lookups, product pricing, grade calculators.
 
 **Next Up:** Pivot Tables + Building my first Excel Dashboard
