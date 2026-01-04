@@ -25,8 +25,14 @@ Land an entry-level Data Analyst role in India (₹4-8 LPA)
 
 ## 📂 Projects
 
-### 🔄 In Progress
-- **Excel Sales Dashboard** — Analyzing sales data with formulas, VLOOKUP, Pivot Tables (Week 1)
+### ✅ Completed Projects
+
+#### 1. [Superstore Sales Dashboard](01-Excel-Projects/Superstore-Dashboard/)
+**Tool:** Excel | **Date:** January 2026
+
+Analyzed ₹22.97L in sales data to identify regional performance, category profitability, and top products. Built interactive dashboard with Pivot Tables, charts, and slicers.
+
+**Key Skills:** Pivot Tables, VLOOKUP, Charts, Dashboard Design
 
 ### 📅 Upcoming Projects
 - COVID-19 Data Analysis (SQL)
